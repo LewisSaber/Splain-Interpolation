@@ -1,0 +1,10 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Test.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

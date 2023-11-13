@@ -1,0 +1,2 @@
+- Ability to get decoration from Component
+- Make input copy carry its value
