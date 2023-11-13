@@ -11,9 +11,7 @@ export default function loadComponents() {
   new MainComponent(20)
     .setDecoration({ "font-family": "arial" })
     .addComponent(
-      new BackGround()
-        .setImg("../Images/Background.jpg")
-        .setSize("100%", "100%")
+      new BackGround().setImg("/Images/Background.jpg").setSize("100%", "100%")
     )
   let inputForm = new Form()
     .setName("Input")
